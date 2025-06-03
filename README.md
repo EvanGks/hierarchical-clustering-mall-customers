@@ -202,6 +202,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 For questions or feedback, please reach out via:
 - **GitHub:** [EvanGks](https://github.com/EvanGks)
 - **X (Twitter):** [@Evan6471133782](https://x.com/Evan6471133782)
+- **LinkedIn:** [Evangelos Gakias](https://www.linkedin.com/in/evangelos-gakias-346a9072)
 - **Kaggle:** [evangelosgakias](https://www.kaggle.com/evangelosgakias)
 - **Email:** [vgakias_@hotmail.com](mailto:vgakias_@hotmail.com)
 
