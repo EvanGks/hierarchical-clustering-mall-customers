@@ -1,0 +1,20 @@
+# Core data manipulation and analysis library
+pandas>=1.0.0
+
+# Fundamental package for scientific computing with Python
+numpy>=1.18.0
+
+# Plotting library for creating static, animated, and interactive visualizations
+matplotlib>=3.0.0
+
+# Statistical data visualization library based on matplotlib
+seaborn>=0.10.0
+
+# Library for scientific and technical computing, used here for hierarchical clustering
+scipy>=1.4.0
+
+# Machine learning library for Python, used for clustering, preprocessing, and evaluation
+scikit-learn>=0.22.0
+
+# Jupyter Notebook server for interactive code and visualization
+notebook>=6.0.0
